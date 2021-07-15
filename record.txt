@@ -1,0 +1,7 @@
+[Terminal operation: User Anna Smith request borrowing <<Finite Transition Systems>> | Operation Time:2020-12-08T15:32:31.816550600
+, Terminal operation: User Anna Smith borrow <<Finite Transition Systems>> successfully | Operation Time:2020-12-08T15:32:31.816550600
+, Terminal operation: display the list of book | Time:2020-12-08T15:32:31.816550600
+, Terminal operation: display the list of user | Time:2020-12-08T15:32:31.816550600
+, Terminal operation: User Anna Smith return <<Finite Transition Systems>> | Operation Time:2020-12-08T15:32:31.816550600
+, Terminal operation: display the list of book | Time:2020-12-08T15:32:31.816550600
+]

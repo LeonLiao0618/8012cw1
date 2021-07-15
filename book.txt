@@ -1,0 +1,11 @@
+5
+Advanced Programming
+Chris Snow
+Concurrent Programming
+Stephen Hartley
+Java Gently
+Judith Bishop
+Petri Nets
+Wolfgang Reisig
+Finite Transition Systems
+Andre Arnold
